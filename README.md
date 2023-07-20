@@ -1,4 +1,4 @@
-[![MasterHead](https://l24.im/nJzWRb)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/ce982a_31514583708b44eeb8614d935f135949~mv2.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Erdi Aydındağ</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
