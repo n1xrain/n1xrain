@@ -22,7 +22,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="110">📚<br/><b>ÖTS</b></td>
+<td align="center" width="110"><img src="assets/ots-logo.jpg" width="72" alt="Öğrenci Takip Sistemi logosu"/><br/><b>ÖTS+</b></td>
 <td>
 
 **Öğrenci Takip Sistemi** — Özel ders sürecini tek akışta yöneten eğitim platformu:
