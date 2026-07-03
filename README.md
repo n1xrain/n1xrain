@@ -73,10 +73,12 @@ ders kaydı, ödev takibi, test istatistikleri, pomodoro odak seansları ve yoru
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=n1xrain&show_icons=true&hide_border=true&title_color=006D77&icon_color=E76F51&text_color=444&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1xrain&layout=compact&hide_border=true&title_color=006D77&text_color=444&bg_color=00000000" alt="top languages" />
+![Followers](https://img.shields.io/github/followers/n1xrain?style=for-the-badge&logo=github&color=006D77&labelColor=00464D)
+![Stars](https://img.shields.io/github/stars/n1xrain?style=for-the-badge&logo=github&color=E76F51&labelColor=00464D)
 
 <img src="https://streak-stats.demolab.com?user=n1xrain&hide_border=true&ring=006D77&fire=E76F51&currStreakLabel=006D77&background=00000000" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n1xrain&hide_border=true&bg_color=00000000&color=00464D&line=006D77&point=E76F51&area=true&area_color=83C5BE&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="contribution graph" width="94%" />
 
 </div>
 
