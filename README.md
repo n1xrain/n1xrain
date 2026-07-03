@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:2A9D8F,100:83C5BE&height=200&section=header&text=Erdi%20Ayd%C4%B1nda%C4%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descSize=18&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:2A9D8F,100:83C5BE&height=200&section=header&text=Erdi%20Ayd%C4%B1nda%C4%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%C2%B7%20Web%20Developer&descSize=18&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=006D77&center=true&vCenter=true&width=460&lines=Flutter+%26+Firebase+Developer;Web+Developer+%C2%B7+Python+%C2%B7+Django+%C2%B7+PHP;Kodla+D%C3%BC%C5%9Fleyin%2C+Ger%C3%A7ekle%C5%9Ftirelim+%E2%9C%A8)](https://erdiaydindag.com.tr)
 
