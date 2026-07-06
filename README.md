@@ -35,11 +35,15 @@ ders kaydı, ödev takibi, test istatistikleri, pomodoro odak seansları ve yoru
 </td>
 </tr>
 <tr>
-<td align="center" width="110">🧭<br/><b>???</b></td>
+<td align="center" width="110"><img src="assets/rovero-logo.png" width="72" alt="Rovero logosu" style="border-radius: 12px;"/><br/><b>Rovero</b></td>
 <td>
 
-**Gizli Proje** — Rotalar, gizli koylar ve keşif hikâyeleri üzerine sosyal bir mobil platform.
-*Yakında...* 🤫
+**Rovero** — Rotalar, gizli koylar ve keşif hikâyeleri üzerine sosyal bir mobil platform.
+Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığı bir keşif dünyası.
+
+[![App Store](https://img.shields.io/badge/App%20Store-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=googleplay&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Web-Yak%C4%B1nda-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </td>
 </tr>
