@@ -30,6 +30,7 @@ ders kaydı, ödev takibi, test istatistikleri, pomodoro odak seansları ve yoru
 Öğretmen, öğrenci ve veliyi aynı çatıda buluşturur.
 
 [![App Store](https://img.shields.io/badge/App%20Store-%C4%B0ndir-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/%C3%B6%C4%9Frenci-takip-sistemi/id6760933229?l=tr)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=googleplay&logoColor=white)](#)
 [![Website](https://img.shields.io/badge/Web-ogrencitakipsistemi.com.tr-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ogrencitakipsistemi.com.tr/)
 
 </td>
