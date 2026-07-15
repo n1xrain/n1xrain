@@ -44,7 +44,7 @@ Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığ
 
 [![App Store](https://img.shields.io/badge/App%20Store-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=apple&logoColor=white)](#)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=googleplay&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Web-Yak%C4%B1nda-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Web-rovero.com.tr-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rovero.com.tr/)
 
 </td>
 </tr>
