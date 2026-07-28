@@ -1,6 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:2A9D8F,100:83C5BE&height=200&section=header&text=Erdi%20Ayd%C4%B1nda%C4%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%C2%B7%20Web%20Developer&descSize=18&descAlignY=58)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1xrain/n1xrain/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1xrain/n1xrain/main/assets/hero-light.svg">
+  <img alt="Erdi Aydındağ — Mobile &amp; Web Developer" src="https://raw.githubusercontent.com/n1xrain/n1xrain/main/assets/hero-light.svg" width="100%">
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=006D77&center=true&vCenter=true&width=460&lines=Flutter+%26+Firebase+Developer;Web+Developer+%C2%B7+Python+%C2%B7+Django+%C2%B7+PHP;Kodla+D%C3%BC%C5%9Fleyin%2C+Ger%C3%A7ekle%C5%9Ftirelim+%E2%9C%A8)](https://erdiaydindag.com.tr)
 
@@ -84,6 +88,18 @@ Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığ
 <img src="https://streak-stats.demolab.com?user=n1xrain&hide_border=true&ring=006D77&fire=E76F51&currStreakLabel=006D77&background=00000000" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1xrain&hide_border=true&bg_color=00000000&color=00464D&line=006D77&point=E76F51&area=true&area_color=83C5BE&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="contribution graph" width="94%" />
+
+</div>
+
+## ✈️ Katkı Jeti
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n1xrain/n1xrain/output/jet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n1xrain/n1xrain/output/jet-light.svg">
+  <img alt="Katkı grafiğim üzerinde uçup en yoğun günleri vuran jet animasyonu" src="https://raw.githubusercontent.com/n1xrain/n1xrain/output/jet-dark.svg" width="100%">
+</picture>
 
 </div>
 

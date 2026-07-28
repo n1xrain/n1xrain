@@ -1,0 +1,41 @@
+name: Katkı Jeti
+
+on:
+  schedule:
+    # Her gün 05:30 UTC'de katkı grafiğini yeniden çizer
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: jet
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Jet animasyonunu üret
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: dist
+        run: node scripts/jet.mjs
+
+      - name: output dalına gönder
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
