@@ -91,7 +91,7 @@ Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığ
 
 </div>
 
-## ✈️ Katkı Jeti
+## ✈️ n1x's Jet
 
 <div align="center">
 
