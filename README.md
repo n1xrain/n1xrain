@@ -56,9 +56,9 @@ Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığ
 <td align="center" width="110"><img src="assets/erdios-logo.png" width="72" alt="erdiOS logosu"/><br/><b>erdiOS</b></td>
 <td>
 
-**erdiOS** — Bir fikrin var. Artık bir ekibin de.
-Sevdiğin yapay zekâ araçları, aynı ofiste çalışan bir ekip.
-Sen ne yapmak istediğini anlat; erdiOS işi bir araya getirsin.
+**erdiOS** — Yapay zekâ araçlarını ortak bir ofiste buluşturan masaüstü uygulaması.
+Farklı araçları aynı projenin etrafında bir ekibe dönüştürür;
+fikir, görev ve üretimi tek akışta birleştirir.
 
 ![macOS: yakında](https://img.shields.io/badge/macOS-Yak%C4%B1nda-2A2A2A?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows: yakında](https://img.shields.io/badge/Windows-Yak%C4%B1nda-0078D4?style=for-the-badge&logo=windows&logoColor=white)
