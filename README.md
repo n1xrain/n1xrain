@@ -56,12 +56,12 @@ Standart bir navigasyon değil, kullanıcıların kendi hikâyelerini anlattığ
 <td align="center" width="110"><img src="assets/erdios-logo.png" width="72" alt="erdiOS logosu"/><br/><b>erdiOS</b></td>
 <td>
 
-**erdiOS** — `> erdiOS yükleniyor..._`
+**erdiOS** — Yapay zekâ ajanlarını aynı projede bir ekip olarak buluşturan macOS uygulaması.
+Claude Code, Codex CLI ve Antigravity CLI'ı ortak bir çalışma alanında yönetir;
+görev panosu, ortak hafıza ve onay akışlarıyla fikrini çalışan bir ekibe dönüştürür.
 
-*Ne olduğunu henüz söylemiyoruz. Hazır olduğunda kendini gösterecek.*
-
-![Durum: gizli](https://img.shields.io/badge/Durum-%F0%9F%94%92%20G%C4%B0ZL%C4%B0-2A2A2A?style=for-the-badge)
 ![Çıkış: yakında](https://img.shields.io/badge/%C3%87%C4%B1k%C4%B1%C5%9F-yak%C4%B1nda-8FA8FF?style=for-the-badge)
+[![Website](https://img.shields.io/badge/Web-erdios.com.tr-006D77?style=for-the-badge&logo=googlechrome&logoColor=white)](https://erdios.com.tr/)
 
 </td>
 </tr>
